@@ -1,0 +1,91 @@
+Infernal hardship
+--------------------------------------------
+enlightened soulsand
+will reveal a picture later
+enlightened soulsand cackles and glows when you stop on it
+it sucks you into the soulsand and nearby enlightened soulsand will be alerted as well and suck you in with them
+[Player] Was enlightened (death message)
+when broken, the block shrieks and drops a cackle of souls
+this can be put into a smithing table to upgrade diamond armor
+like the reverse of thorns
+obsorbs most damage and lowers enemy attack speed greatly
+when infused with axes, hoes, or swords, the sword's base damage in significantly decreased and when the enchanted item is equipped, it gives a new currently unnamed effect
+this effect can stack up to 9x
+and it increases your damage and effect multiplier the more kills you get
+for Infernal hardship of course
+at max (9x) multiplier, the damage that can be done if 4 more damage points than netherite weaopons
+------------------------------------------------------------------
+I mentioned something about lost souls on the trello
+lost souls are a combination of strays and the vex
+they float around aimlessly through the nether wastes and spawn frequently in the soul sand valley
+they don't do anything to harm the player except make spooky sounds which i'm sure squidud can help us make
+however, they lead the player with iron nuggets towards enlightened soulsand or other hostile mobs (you choose which ever you want)
+if you don't want to do that, then you can try and code it so they attempt to push the player in groups towards lava blocks or towards hostile entities
+-----------------------------------------------------------
+gilded rose
+this only spawns on enlightened soulsand and in large piglin camps. once obtained, it not only makes you safe around piglins when it is held, but nearby piglins will attempt to attack entities that have damaged the player
+this does not mean the piglins are tamed and they do not follow the player
+when a Gilded Rose is given to a piglin, they immediately die
+--------------------------------------------------------------------
+normal basalt now drops basalt shards unless broken by a silk touch pickaxe
+9 basalt shards allow you to craft the basalt block once agin, which you can use to make basalt bricks and slabs and all the rest that comes witha new rock these days
+------------------------------------------------------------------
+bloodstone
+they'd be found in a specific biome and kinda form like the rest of the nether but more sharp
+-------------------------------------------------------------------
+Spears
+early game items for infernal hell
+Enchantments include
+Sharpness
+Elongated Blade (increases overral melee range)
+Feathered Hilt (Increases throw range)
+Flame (Same effect as flame bow, but only effective when thrown)
+spears are throwable
+no other enchantments
+Also nethermites
+nether version of endermites
+a combination of silverfish and endermites
+they can burrow and also "melt" or otherwise teleport
+they have a miniscule chance dropping magma cream when killed
+they are considred an arthropod, just like ghast larvae are
+-----------------------------------------------------------------
+scorched
+what if we added...
+lava drowned
+that have an 80% chance of spawning with golden spears
+and have a 30% chance of dropping a spear
+-----------------------------------------------------------------
+lava ocean monument
+with lava sponges
+-----------------------------------------------------------------
+how about a "lava sight" potion
+that lets you see things in lava
+but acts like blindness in water
+brewed with infernal stalk and magma cream
+-----------------------------------------------------------------
+1 gilded rose
+and one Red Gilded Rose
+the names
+the red gilded rose is a fake and kills the player immediately when held
+and the gilded rose is real and does the stuff i mentioned in secret chat
+Actually
+call it a blood tinted rose
+-----------------------------------------------------------------
+demons + demon wings
+Another Cinderbloom idea
+demons
+don't add them rn
+but they'll have wings and fly and stuff
+and drop demon leather
+which can be crafted into simple armor and demon wings
+demon wings aren't as good as an elytra, but they'll be a mid/early game item
+-----------------------------------------------------------------
+cinderblooms
+For cinderbloom we could do actual cinderblooms like berries in the nether
+-----------------------------------------------------------------
+blooming petals
+i have a better idea
+bloooming petals
+they'd spawn in a structure in lava
+and hurt any entities nearby
+burns the player when held

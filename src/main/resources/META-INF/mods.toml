@@ -1,0 +1,46 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[31,)"
+
+issueTrackerURL="http://my.issue.tracker/" #optional
+
+[[mods]] #mandatory
+
+modId="infernalhardship" #mandatory
+
+version="NaN" #mandatory
+
+displayName="Cinderbloom (Infernal Hardship)" #mandatory
+
+#updateJSONURL="http://myurl.me/" #optional
+
+displayURL="https://www.curseforge.com/minecraft/mc-mods/infernal-hardship" #optional
+
+#logoFile="examplemod.png" #optional
+
+#credits="" #optional
+
+authors="Enderman842 (Owner), Fr3nderman (Artist), Snowylagito_ (Artist), Sameko_Azumi (Contributor), idrae_ (Contributor), SquidudGaming (Contributor)"
+
+description='''
+
+'''
+# A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
+[[dependencies.infernalhardship]] #optional
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[31,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+# Here's another dependency
+[[dependencies.infernalhardship]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
