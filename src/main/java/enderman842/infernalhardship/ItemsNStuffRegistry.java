@@ -74,8 +74,7 @@ public class ItemsNStuffRegistry {
 	public static Effect lava_sight_effect;
 	
 	//Entities
-	@SuppressWarnings("unchecked")
-	public static EntityType<NetherCrab> nether_crab = (EntityType<NetherCrab>) EntityType.Builder.create(NetherCrab::new, EntityClassification.CREATURE).build(Main.MOD_ID + ":nether_crab").setRegistryName(Main.location("nether_crab"));
+	public static EntityType<?> nether_crab = EntityType.Builder.create(NetherCrab::new, EntityClassification.CREATURE).build(Main.MOD_ID + ":nether_crab").setRegistryName(Main.location("nether_crab"));
 	@SuppressWarnings("unchecked")
 	public static EntityType<MagmaCrab> magma_crab = (EntityType<MagmaCrab>) EntityType.Builder.create(MagmaCrab::new, EntityClassification.CREATURE).build(Main.MOD_ID + ":magma_crab").setRegistryName(Main.location("magma_crab"));
 	@SuppressWarnings("unchecked")

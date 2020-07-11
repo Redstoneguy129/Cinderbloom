@@ -24,6 +24,9 @@ public class Main {
 	public Main() {
 		//All this code was written by Enderman842
 		//pls dont steal
+
+		//might steal -Redstoneguy129
+		//jkjk - Redstoneguy129
 		instance = this;
 		
 		final IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
