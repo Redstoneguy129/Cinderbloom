@@ -1,0 +1,45 @@
+{
+	"item.cinderbloom.stone_spear": "Stone Spear",
+	"item.cinderbloom.iron_spear": "Iron Spear",
+	"item.cinderbloom.golden_spear": "Golden Spear",
+	"item.cinderbloom.diamond_spear": "Diamond Spear",
+	"item.cinderbloom.netherite_spear": "Netherite Spear",
+	
+	"item.cinderbloom.basalt_shard": "Basalt Shard",
+	"item.cinderbloom.fungal_stew": "Fungal Stew",
+	"item.cinderbloom.withersalt": "Withersalt",
+	"item.cinderbloom.scorched_crab_leg": "Scorched Crab Leg",
+	"item.cinderbloom.molten_gold_ingot": "Molten Gold Ingot",
+	"item.cinderbloom.lanula_aurum": "Lanula Aurum",
+	
+	"block.cinderbloom.enlightened_soulsand": "Enlightened Soul Sand",
+	"block.cinderbloom.bloodstone": "Bloodstone",
+	"block.cinderbloom.flaked_netherrack": "Flaked Netherrack",
+	"block.cinderbloom.flaked_magma": "Flaked Magma Block",
+	"block.cinderbloom.gilded_rose": "Gilded Rose",
+	"block.cinderbloom.withered_campfire": "Withered Campfire",
+	"block.cinderbloom.withered_lantern": "Withered Lantern",
+	"block.cinderbloom.witherslag": "Witherslag",
+	"block.cinderbloom.witherslag_stem": "Witherslag Stem",
+	"block.cinderbloom.witherslag_planks": "Witherslag Planks",
+	"block.cinderbloom.witherslag_wood": "Witherslag Wood",
+	"block.cinderbloom.stripped_witherslag_stem": "Stripped Witherslag Stem",
+	"block.cinderbloom.stripped_witherslag_wood": "Stripped Witherslag Wood",
+	"block.cinderbloom.witherslag_fungus": "Witherslag Fungus",
+	"block.cinderbloom.witherslag_roots": "Witherslag Roots",
+	
+	"entity.cinderbloom.nether_crab": "Scorched Crab",
+	"entity.cinderbloom.magma_crab": "Magma Crab",
+	"entity.cinderbloom.bloody_crab": "Bloody Crab",
+	"entity.cinderbloom.warped_fungi_crab": "Warped Fungi Crab",
+	"entity.cinderbloom.crimson_fungi_crab": "Crimson Fungi Crab",
+	
+	"item.minecraft.potion.effect.lava_sight": "Potion of Lava Vision (WIP!)",
+	"item.minecraft.splash_potion.effect.lava_sight": "Splash Potion of Lava Vision (WIP!)",
+	"item.minecraft.lingering_potion.effect.lava_sight": "Lingering Potion of Lava Vision (WIP!)",
+	"item.minecraft.tipped_arrow.effect.lava_sight": "Arrow of Lava Vision (WIP!)",
+	
+	"effect.cinderbloom.lava_sight": "Lava Vision (WIP!)",
+	
+	"itemGroup.cindertab": "Cinderbloom Stuff"
+}

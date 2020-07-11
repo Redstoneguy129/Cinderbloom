@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cinderbloom:block/stripped_witherslag_stem",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cinderbloom:block/stripped_witherslag_stem"
+    },
+    "axis=z": {
+      "model": "cinderbloom:block/stripped_witherslag_stem",
+      "x": 90
+    }
+  }
+}

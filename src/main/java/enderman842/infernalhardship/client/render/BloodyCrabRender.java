@@ -19,7 +19,7 @@ public class BloodyCrabRender extends LivingRenderer<BloodyCrab, BloodyCrabModel
 		
 	}
 	public ResourceLocation getEntityTexture(BloodyCrab entity) {
-		return Main.location("textures/entity/bloody_crab.png");
+		return Main.location("textures/entity/crab/bloody_crab.png");
 	}
 	
 	public static class RenderFactory implements IRenderFactory<BloodyCrab> {

@@ -19,7 +19,7 @@ public class NetherCrabRender extends LivingRenderer<NetherCrab, NetherCrabModel
 		
 	}
 	public ResourceLocation getEntityTexture(NetherCrab entity) {
-		return Main.location("textures/entity/nether_crab.png");
+		return Main.location("textures/entity/crab/nether_crab.png");
 	}
 	
 	public static class RenderFactory implements IRenderFactory<NetherCrab> {

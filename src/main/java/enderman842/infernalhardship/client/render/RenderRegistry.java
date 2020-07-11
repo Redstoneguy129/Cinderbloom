@@ -11,5 +11,10 @@ public class RenderRegistry {
 		RenderingRegistry.registerEntityRenderingHandler(ItemsNStuffRegistry.nether_crab, new NetherCrabRender.RenderFactory());
 		RenderingRegistry.registerEntityRenderingHandler(ItemsNStuffRegistry.magma_crab, new MagmaCrabRender.RenderFactory());
 		RenderingRegistry.registerEntityRenderingHandler(ItemsNStuffRegistry.bloody_crab, new BloodyCrabRender.RenderFactory());
+		RenderingRegistry.registerEntityRenderingHandler(ItemsNStuffRegistry.warped_fungi_crab, new WarpedFungiCrabRender.RenderFactory());
+		RenderingRegistry.registerEntityRenderingHandler(ItemsNStuffRegistry.crimson_fungi_crab, new CrimsonFungiCrabRender.RenderFactory());
+		RenderingRegistry.registerEntityRenderingHandler(ItemsNStuffRegistry.scorched, new ScorchedRender.RenderFactory());
+		RenderingRegistry.registerEntityRenderingHandler(ItemsNStuffRegistry.charred, new CharredRender.RenderFactory());
+		RenderingRegistry.registerEntityRenderingHandler(ItemsNStuffRegistry.witherslag_crab, new WitherslagCrabRender.RenderFactory());
 	}
 }

@@ -89,3 +89,9 @@ bloooming petals
 they'd spawn in a structure in lava
 and hurt any entities nearby
 burns the player when held
+-----------------------------------------------------------------
+Blackstone forge
+smelts iron bars, chains, damaged anvil, cauldron, iron doors, rails, hopper, buckets, minecart to get some iron
+burns player if they're nearby too long
+(crafted with blackstone brick, not normal blackstone)
+

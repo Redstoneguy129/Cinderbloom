@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "cinderbloom:item/iron_spear"
+    }
+}

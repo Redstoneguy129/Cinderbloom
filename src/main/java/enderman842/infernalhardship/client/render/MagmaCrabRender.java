@@ -19,7 +19,7 @@ public class MagmaCrabRender extends LivingRenderer<MagmaCrab, MagmaCrabModel> {
 		
 	}
 	public ResourceLocation getEntityTexture(MagmaCrab entity) {
-		return Main.location("textures/entity/magma_crab.png");
+		return Main.location("textures/entity/crab/magma_crab.png");
 	}
 	
 	public static class RenderFactory implements IRenderFactory<MagmaCrab> {

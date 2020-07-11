@@ -6,39 +6,34 @@ issueTrackerURL="http://my.issue.tracker/" #optional
 
 [[mods]] #mandatory
 
-modId="infernalhardship" #mandatory
+modId="cinderbloom" #mandatory
 
-version="NaN" #mandatory
+version="1.0.0 Alpha" #mandatory
 
-displayName="Cinderbloom (Infernal Hardship)" #mandatory
+displayName="Cinderbloom (prev. Infernal Hardship)" #mandatory
 
 #updateJSONURL="http://myurl.me/" #optional
 
-displayURL="https://www.curseforge.com/minecraft/mc-mods/infernal-hardship" #optional
+displayURL="https://www.curseforge.com/minecraft/mc-mods/cinderbloom" #optional
 
-#logoFile="examplemod.png" #optional
+logoFile="cinderbloom_logo.png"
 
 #credits="" #optional
 
-authors="Enderman842 (Owner), Fr3nderman (Artist), Snowylagito_ (Artist), Sameko_Azumi (Contributor), idrae_ (Contributor), SquidudGaming (Contributor)"
+authors="Enderman842, Fr3nderman, Snowylagito_, mr_ch0c0late1, Sameko_Azumi, idrae_, SquidudGaming"
 
 description='''
 
 '''
-# A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
-[[dependencies.infernalhardship]] #optional
-    # the modid of the dependency
+
+[[dependencies.cinderbloom]] #optional
     modId="forge" #mandatory
-    # Does this dependency have to exist - if not, ordering below must be specified
     mandatory=true #mandatory
-    # The version range of the dependency
     versionRange="[31,)" #mandatory
-    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
     ordering="NONE"
-    # Side this dependency is applied on - BOTH, CLIENT or SERVER
     side="BOTH"
-# Here's another dependency
-[[dependencies.infernalhardship]]
+
+[[dependencies.cinderbloom]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.15.2]"

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "cinderbloom:block/witherslag_stem_top",
+    "side": "cinderbloom:block/witherslag_stem"
+  }
+}

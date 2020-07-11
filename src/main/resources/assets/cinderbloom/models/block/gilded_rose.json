@@ -1,0 +1,6 @@
+{
+   "parent": "block/cross",
+   "textures": {
+       "cross": "cinderbloom:block/gilded_rose"
+   }
+}
